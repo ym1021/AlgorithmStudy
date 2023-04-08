@@ -3,8 +3,55 @@
   <component name="ChangeListManager">
     <list default="true" id="1db2b558-36b8-4e6a-8e3b-98c2a43c7e1e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-18108.py" beforeDir="false" afterPath="$PROJECT_DIR$/18108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-3003.py" beforeDir="false" afterPath="$PROJECT_DIR$/3003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/1330.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-14681.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-2884.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-10951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-10952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-1110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-15552.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-2439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-2480.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-25304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-10807.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-10818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-1546.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-2562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-3052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-4344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-5597.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-8958.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-10809.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-1152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-1157.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-11654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-11718.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-11720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-15596.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-2908.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-4673.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-5622.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-9086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-10988.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-1316.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-25206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-2941.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-10798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-2563.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-2566.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-2738.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-11653.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-1978.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-2501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-2581.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-5086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-9506.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-1085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-11005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-15894.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-2745.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-3009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-5073.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +114,8 @@
       <workItem from="1680160328911" duration="3191000" />
       <workItem from="1680338482898" duration="3658000" />
       <workItem from="1680427511087" duration="7117000" />
+      <workItem from="1680826182901" duration="3293000" />
+      <workItem from="1680928677895" duration="8000" />
     </task>
     <servers />
   </component>
@@ -96,6 +145,7 @@
     <SUITE FILE_PATH="coverage/baekjoon$08_2581.coverage" NAME="08-2581 Coverage Results" MODIFIED="1679882755583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$05_11718.coverage" NAME="05-11718 Coverage Results" MODIFIED="1677954029515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$08_5086.coverage" NAME="08-5086 Coverage Results" MODIFIED="1679416767377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baekjoon$2292.coverage" NAME="2292 Coverage Results" MODIFIED="1680917990904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$05_5622.coverage" NAME="05-5622 Coverage Results" MODIFIED="1677953744618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$06_1316.coverage" NAME="06-1316 Coverage Results" MODIFIED="1678856053503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$07_2563.coverage" NAME="07-2563 Coverage Results" MODIFIED="1679280365633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -106,5 +156,6 @@
     <SUITE FILE_PATH="coverage/baekjoon$08_11653.coverage" NAME="08-11653 Coverage Results" MODIFIED="1679979962721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$07_10798.coverage" NAME="07-10798 Coverage Results" MODIFIED="1679277895080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$08_1978.coverage" NAME="08-1978 Coverage Results" MODIFIED="1679881121375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baekjoon$1193.coverage" NAME="1193 Coverage Results" MODIFIED="1680928143771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
