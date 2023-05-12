@@ -83,7 +83,7 @@
       <workItem from="1683610191598" duration="2746000" />
       <workItem from="1683689455385" duration="4305000" />
       <workItem from="1683713413629" duration="3000" />
-      <workItem from="1683788829405" duration="1975000" />
+      <workItem from="1683788829405" duration="3132000" />
     </task>
     <servers />
   </component>
@@ -120,6 +120,7 @@
     <SUITE FILE_PATH="coverage/baekjoon$14425.coverage" NAME="14425 Coverage Results" MODIFIED="1683512343494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$1436.coverage" NAME="1436 Coverage Results" MODIFIED="1683088280789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$10816.coverage" NAME="10816 Coverage Results" MODIFIED="1683710591517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baekjoon$11478.coverage" NAME="11478 Coverage Results" MODIFIED="1683904727320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$1018.coverage" NAME="1018 Coverage Results" MODIFIED="1683036570097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$24262.coverage" NAME="24262 Coverage Results" MODIFIED="1681089137114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/baekjoon$09_5073.coverage" NAME="09-5073 Coverage Results" MODIFIED="1680441062475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
