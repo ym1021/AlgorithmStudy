@@ -1,12 +1,9 @@
-import sys
-input_ = sys.stdin.readline
-
 while True:
-    ph = input_()
+    ph = input()
     stack = []
 
     if ph == ".":
-        break;
+        break
 
     for i in ph:
         if i == '[' or i == '(':
